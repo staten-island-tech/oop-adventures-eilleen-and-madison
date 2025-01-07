@@ -3,7 +3,7 @@
 
 ##  Name: Shirley Jiang
 
-### Date: 01/07/
+### Date: 01/07/25
 
 ---
 
@@ -32,7 +32,6 @@ class PowerUp:
 ### Questions/Requests to ChatGPT
 "How can I make a feature where the player has a chance to deal double damage?"
 
-```
 
 ---
 
@@ -71,14 +70,7 @@ ChatGPT's solution was to make a probability threshold, and using a conditional 
 
 ## 5. **Reflection on Changes**
 
-ChatGPT recommended using a separate class for making/defining a class for chance, and making/defining a class where the chance gets applied to the player after an attack. I think this will improve how 
-
-- Why do you think ChatGPT's suggestions are helpful or relevant?
-- Did the suggestions improve your code? How?
-- Did you understand why the changes were made, or are you still uncertain about some parts?
-
-Example:
-> ChatGPT recommended using a more efficient sorting algorithm like quicksort. I think this will improve the runtime for large inputs, but I need to review the algorithm's complexity to fully understand its advantages.
+ChatGPT recommended using a separate class for making/defining a class for chance, and making/defining a class where the chance gets applied to the player after an attack. I think this will improve my code because it organizes my code into a more logic way. This provides a clear structure. I understand why these changes were made. 
 
 ---
 

@@ -9,4 +9,3 @@ class PowerUp:
             return base_damage * 2
         else:
             return base_damage
-        
